@@ -37,13 +37,17 @@ header {
     top: 0;
     /* left: 0;
     right: 0; */
-    padding: 12px;
+    padding: 4px;
     background-color: #F2AF29;
     margin: 0;
+}
+header nav{
+    margin: 0 auto;
 }
 nav>ul{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 nav>ul>li {
     list-style: none;
