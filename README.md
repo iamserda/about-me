@@ -2,3 +2,6 @@
 A very basic landing page, presenting information to visitors about the author/web developer.
 
 ## Scrimba Project: Module 2, Project 1
+
+### See the project at:
+https://iamserda.github.io/about-me
